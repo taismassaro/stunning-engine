@@ -1,2 +1,5 @@
-# stunning-engine
-learning python
+# learning python
+
+currently working on projects from superhi's intro to python course.
+
+- [rainbow-land](/rainbow-land)
