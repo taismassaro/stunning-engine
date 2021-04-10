@@ -3,3 +3,8 @@ __pycache__/
 
 # vscode settings
 .vscode/
+
+# Python environment
+.venv/
+
+outputs/
