@@ -7,3 +7,4 @@ Learning python with small projects
 - [art-generator](/art-generator)
 - [miniping](/miniping)
 - [fake-name-generator](/fake_name_generator.py)
+- [anagram-finder](/anagram-finder)
