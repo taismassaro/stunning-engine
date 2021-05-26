@@ -1,8 +1,9 @@
-# learning python
+# stunning-engine
 
-currently working on projects from superhi's intro to python course.
+Learning python with small projects
 
 - [rainbow-land](/rainbow-land)
 - [image-processor](/image-processor)
 - [art-generator](/art-generator)
 - [miniping](/miniping)
+- [fake-name-generator](/fake_name_generator.py)
